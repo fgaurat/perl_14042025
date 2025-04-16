@@ -6,4 +6,5 @@ print "Bonjour\n";
 print STDOUT "Bonjour STDOUT\n";
 say "Hello";
 say "Bonjour";
-
+# die("Erreur\n");
+exit(2)
